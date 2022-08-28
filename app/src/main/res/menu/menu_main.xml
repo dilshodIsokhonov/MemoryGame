@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_supplier_cash_report"
+        android:checkable="true"
+        android:icon="@drawable/ic_face"
+        android:title="user"
+        app:showAsAction="ifRoom" />
+</menu>
